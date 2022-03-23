@@ -1,0 +1,2 @@
+this is aws document
+here we can create s3 bucket
