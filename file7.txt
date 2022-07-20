@@ -1,3 +1,0 @@
-git add file7.txt
-ram is add
-do conflict
